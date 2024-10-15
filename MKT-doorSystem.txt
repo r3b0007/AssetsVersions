@@ -1,1 +1,4 @@
-{"version":"1.1.4","news":"Many changes and news"}
+{
+  "version": "1.1.4",
+  "news": "Many changes and news"
+}
